@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You see I'm a superhero. I can code without coffee. 🥱
+I'm a superhero who can code without coffee. 🥱
 
 <!--
 **iqHpi/iqHpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
